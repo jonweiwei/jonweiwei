@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 <!--
 **jonweiwei/jonweiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm current building AI teammates for home health at [Phoebe](https://www.phoebe.work/).
+
+https://www.jonathanwei.dev/
